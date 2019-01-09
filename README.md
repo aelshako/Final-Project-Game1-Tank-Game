@@ -1,7 +1,6 @@
-# csc413-TankGame
+## CSC 413(Software Development)- Final Project game #1(Tank Game)
 
 ## Student Name : Ahmad El Shakoushy
-## Student ID : 915814671
 
 ## IDE Used: IntelliJ IDEA
 ## Version of Java: 10.0.2
