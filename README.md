@@ -1,9 +1,9 @@
 ## CSC 413(Software Development)- Final Project game #1(Tank Game)
 
-## Student Name : Ahmad El Shakoushy
+### Student Name : Ahmad El Shakoushy
 
-## IDE Used: IntelliJ IDEA
-## Version of Java: 10.0.2
+### IDE Used: IntelliJ IDEA
+### Version of Java: 10.0.2
 
 **Note on Documentation: Please note that the documentation for this game is included within the repo, and the documentation 
   goes into great detail in explaining both parts of my Final Project(both the Tank Game and the Pyramid Panic game)**
